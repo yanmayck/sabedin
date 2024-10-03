@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+}
+header {
+  height: 40px;
+  width: 100%;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 70px;
+  width: 100%;
+  background-color: #217fb6;
+  border-radius: 0 0 10px 10px;
+}
+.logo {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+}
+.btn_logo {
+  border: none;
+  padding: 0;
+  margin: 0;
+  box-shadow: none;
+  text-transform: none;
+  text-decoration: none;
+  border-radius: 50px;
+  height: 60px;
+  width: 60px;
+  margin-left: 40px;
+}
+.navegacao {
+  display: flex;
+  align-items: center;
+  margin-right: 60px;
+}
+.botao_navegaceo {
+  height: 40px;
+  width: 80px;
+  border-radius: 30px;
+  text-decoration: none;
+  box-shadow: none;
+  margin: 10px;
+  color: #ffd700;
+  background-color: #38b6ff;
+  border: 10px;
+}
+footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 300px;
+  width: 100%;
+  background-color: #217fb6;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px 10px 0 0;
+}
+.lema {
+  margin: 50px 0 0 70px;
+}
+.contatos_2 {
+  list-style-type: none;
+}
+.contato {
+  border: none;
+  padding: 0;
+  margin: 0;
+  box-shadow: none;
+  text-transform: none;
+  text-decoration: none;
+  background-color: transparent;
+}
+.redes_sociais {
+  color: #ffd700;
+  text-decoration: none;
+  text-transform: none;
+  font-size: 18px;
+}
+.contatos {
+  margin: 50px 70px 0 0;
+}
+.topicos {
+  margin: 50px 0 0 0;
+}
+.footer {
+  font-weight: bold;
+  font-size: 25px;
+}
+a {
+  text-decoration: none;
+  text-transform: none;
+}
+section {
+  margin: 100px 0 100px 60px;
+}
+.video {
+  margin: 200px 0 40px 500px;
+}
+.proximo {
+  color: #ffd700;
+  font-size: 15px;
+  font-weight: bolder;
+}
+.alternancia {
+  background-color: #217fb6;
+  height: 40px;
+  border: none;
+  border-radius: 15px;
+}
